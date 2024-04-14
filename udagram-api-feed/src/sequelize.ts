@@ -3,7 +3,7 @@ import {config} from './config/config';
 
 export const sequelize = new Sequelize({
   'username': config.username,
-  'password': 'Feb@20231607',
+  'password': `${config.password}`,
   'database': config.database,
   'host': config.host,
 
