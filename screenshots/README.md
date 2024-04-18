@@ -23,3 +23,9 @@ kubectl describe hpa
 ```bash
 kubectl logs {pod_name}
 ```
+
+
+## ** STUDENT NOTES **
+
+I was unable to use Travis CI due to my card was not accepted so I switch to use CircleCI instead. Please understand.
+Thank you !
